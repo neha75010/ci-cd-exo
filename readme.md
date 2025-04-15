@@ -20,5 +20,7 @@ https://github.com/ynovzelab/ci-cd-ex1
 // dist => dans le .gitignore
 // Versionner dans un repo : avec deux branches : main et development
 // Mise en ligne sur render 
-// Déclencher une mise en ligne à l'aide d'un pull request de dev => main
+// Déclencher une mise en ligne à l'aide d'un pull request de dev => 
 
+// mpm i jest
+// npx jest --init
